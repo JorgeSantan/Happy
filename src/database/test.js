@@ -7,7 +7,7 @@ Database.then(async db => {
     // inserir dados na tabela 
  
 
-    // consultar dados na tabela
+   /* // consultar dados na tabela
    const selectedOrphanages = await db.all("SELECT * FROM orphanages")
    console.log(selectedOrphanages)
    // consultar somente 1 orphanato, pelo id 
