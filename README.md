@@ -35,7 +35,7 @@ $ git clone https://github.com/JorgeSantan/Happy-.git
 </pre></pre>
 
 ## 💻 Visualizar WebSite
-### Vá para http://localhost:3000/ para ver o website.
+### Vá para http://localhost:5500/ para ver o website.
 
 <br> 
 <br> 
